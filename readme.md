@@ -27,3 +27,9 @@ The dataset is split into training and testing sets, where the model is trained 
 <h4>Logistic Regression</h4>
 
 Logistic regression is used as the primary machine learning algorithm in this project. It’s a simple yet effective classification algorithm, particularly suited for binary classification problems like this one.
+<br>
+<h3>Output</h3>
+<br>
+
+![Screenshot 2024-10-05 at 1 05 46 PM](https://github.com/user-attachments/assets/e24879bc-4677-48c5-b044-13e5316effeb)
+
